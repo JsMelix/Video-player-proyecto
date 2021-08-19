@@ -18,7 +18,7 @@ body {
 }
 
 .wrapper {
-    max-inline-size: 800px;
+    max-inline-size: 900px;
     margin: auto;
 }
 
@@ -45,7 +45,7 @@ body {
     inset-block-end: 0;
     inset-inline: 0;
     display: flex;
-    padding: 10px;
+    padding: 5px;
 }
 
 .player-progress input {
